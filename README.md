@@ -307,7 +307,7 @@ Here I listed all 3 differences between the results my program produced and the 
       CRITICAL:root:Tx 97: WBNB: $16.248284060582773 with total cost $0.41920280769710144 Profit: $15.829081252885672
       ```
 
-      ![Screenshot 2024-08-13 at 11.50.11 PM](/Users/ianchen/Desktop/LindenShore/result1.png)
+      ![Screenshot 2024-08-13 at 11.50.11 PM](result1.png)
 
     As we can see, Revenue, Profit and Cost checks.
 
